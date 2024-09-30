@@ -7,3 +7,4 @@ def main():
     print("spv")
     print("an  nadi")
     print("hm")
+    print("aah ana smeiti adam ana machi rajl aaaah")
