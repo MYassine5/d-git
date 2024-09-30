@@ -3,7 +3,6 @@ class Footer:
         self.name = name
         self.number = number
 
-footers = []
 
 def add_footer():
     n = input("enter name: ")
