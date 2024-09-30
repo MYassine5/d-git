@@ -2,7 +2,7 @@ class Footer:
     def __init__(self, name, number):
         self.name = name
         self.number = number
-
+#add list
 
 def add_footer():
     n = input("enter name: ")
